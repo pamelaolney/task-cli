@@ -1,6 +1,6 @@
 package main
 
-import "github.com/pamelaolney/task-cli/cmd"
+import "task-cli/cmd"
 
 func main() {
 	cmd.RootCmd.Execute()
